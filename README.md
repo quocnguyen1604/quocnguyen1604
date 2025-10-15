@@ -3,6 +3,7 @@
 
 ### Career 💼
 * Software Developer Intern @ VUO AI
+* Data Analyst Trainee @ Nokia
 
 
 ### Education 🏫
