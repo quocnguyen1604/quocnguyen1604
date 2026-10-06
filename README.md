@@ -8,7 +8,8 @@
 
 ### Education 🏫
 * Informatics student at VNU-HCM High School for the Gifted.
-* Information Processing Science student at University of Oulu.
+* Bachelor or Science, Information Processing Science at University of Oulu.
+* Master or Science, Software Development at University of Oulu.
 
 
 # 💻 Skills:
